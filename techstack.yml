@@ -2,7 +2,7 @@ repo_name: Clivern/pyscaffold
 report_id: 701d0aeb864e5ef5e41f2214d0f08a58
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:23:18+00:00'
+timestamp: '2024-01-05T08:18:30+00:00'
 requested_by: abravalheri
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Clivern/pyscaffold
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/pyscaffold
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-02-18 19:38:27.000000000 Z
@@ -46,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -80,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -91,6 +98,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Anderson Bravalheri
   last_updated_on: 2021-07-04 08:10:41.000000000 Z
@@ -102,6 +110,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Florian Wilhelm
   last_updated_on: 2014-04-14 07:59:41.000000000 Z
@@ -112,6 +121,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4825/OhsWgbsr_normal.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -121,6 +131,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3581/no-img-open-source.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Florian Wilhelm
   last_updated_on: 2021-09-05 11:20:08.000000000 Z
@@ -134,6 +145,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19878/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Anderson Bravalheri
   last_updated_on: 2020-12-23 13:59:33.000000000 Z
@@ -146,6 +158,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Anderson Bravalheri
   last_updated_on: 2020-12-23 13:59:33.000000000 Z
@@ -179,6 +192,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20619/default_63066aa0234404e124cf566de6710b3ef8042728.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Anderson Bravalheri
   last_updated_on: 2020-12-23 13:59:33.000000000 Z
@@ -191,6 +205,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20350/default_af2b356cd035e5e1c010a45df43c17b898af8c44.png
+  detection_source_url: https://github.com/Clivern/pyscaffold/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Anderson Bravalheri
   last_updated_on: 2020-12-23 13:59:33.000000000 Z
